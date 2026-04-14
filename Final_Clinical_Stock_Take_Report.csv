@@ -1,0 +1,163 @@
+item_name,unit,expiry_date,opening_stock,closing_stock,variance,days_to_expiry,expiry_status,stock_analysis
+latex gloves,pkts of 100,2030-10-01,1468.0,0.0,-1468.0,1636,Long Expiry (>6 Months),Fast Mover
+sterile surgical gloves 6.5,pairs,2030-08-01,650.0,700.0,50.0,1575,Long Expiry (>6 Months),Normal Movement
+sterile surgical gloves 7.0,pairs,2030-05-01,4750.0,250.0,-4500.0,1483,Long Expiry (>6 Months),Fast Mover
+sterile surgical gloves 7.5,pairs,2030-08-01,5250.0,487.0,-4763.0,1575,Long Expiry (>6 Months),Fast Mover
+sterile surgical gloves 8.0,pairs,2030-07-01,450.0,0.0,-450.0,1544,Long Expiry (>6 Months),Fast Mover
+Gynaecological gloves,pairs,2026-09-01,2331.0,1034.0,-1297.0,145,Medium Expiry (3-6 Months),Fast Mover
+Red bin liners 30 x 36,pcs,2100-01-01,704.0,701.0,-3.0,26930,Long Expiry (>6 Months),Normal Movement
+yellow bin liners 30 x 36,pcs,2100-01-01,1120.0,0.0,-1120.0,26930,Long Expiry (>6 Months),Fast Mover
+black bin liners 30 x 36,pcs,2100-01-01,668.0,0.0,-668.0,26930,Long Expiry (>6 Months),Fast Mover
+syringes  20cc,pkts of 50,2030-09-01,10.0,0.0,-10.0,1606,Long Expiry (>6 Months),Normal Movement
+syringes 10 cc ,pkts of 100,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+syringes 5 cc,pkts of 100,2030-12-01,10.0,26.0,16.0,1697,Long Expiry (>6 Months),Normal Movement
+syringes 2cc,pkts of 100,2030-12-01,9.0,0.0,-9.0,1697,Long Expiry (>6 Months),Normal Movement
+cotton wool 400GMS,rolls,2030-05-01,470.0,7.0,-463.0,1483,Long Expiry (>6 Months),Fast Mover
+jik 5ltrs 4-6%,Pcs,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+cannula G18,pcs,2030-06-01,2808.0,1500.0,-1308.0,1514,Long Expiry (>6 Months),Fast Mover
+Cannula G24,pcs,2030-08-01,2470.0,0.0,-2470.0,1575,Long Expiry (>6 Months),Fast Mover
+Cannula 16,pcs,2030-04-01,1010.0,0.0,-1010.0,1453,Long Expiry (>6 Months),Fast Mover
+cannula G 26,pcs,2030-04-01,407.0,800.0,393.0,1453,Long Expiry (>6 Months),Normal Movement
+cannula G22,pcs,2030-09-01,411.0,0.0,-411.0,1606,Long Expiry (>6 Months),Fast Mover
+cannula G20,pkts of 100,2030-06-01,2300.0,1173.0,-1127.0,1514,Long Expiry (>6 Months),Fast Mover
+catheters size 16,pkt of 10's,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+catheters size 18,pkt of 10's,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+urine bags,pcs,2030-07-01,910.0,353.0,-557.0,1544,Long Expiry (>6 Months),Fast Mover
+"crepe bandages 6""",dozens,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+"pop   6""",pairs,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+surgicell 10 x 20cm,dozens,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+Nylon sutures 2 RB (40mm,dozens,2030-03-01,21.0,28.0,7.0,1422,Long Expiry (>6 Months),Normal Movement
+Nylon sutures 2/0 RC,dozens,2030-07-01,21.0,90.0,69.0,1544,Long Expiry (>6 Months),Normal Movement
+Nylon sutures 3/0 RB,dozens,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+Nylon sutures 3/0 RC,dozens,2030-02-01,107.0,0.0,-107.0,1394,Long Expiry (>6 Months),Fast Mover
+Nylon sutures 1 RC 40 mm,dozens,2030-03-01,16.0,86.0,70.0,1422,Long Expiry (>6 Months),Normal Movement
+Vicryl sutures 2/0 RB 40mm,dozens,2030-05-01,15.0,10.0,-5.0,1483,Long Expiry (>6 Months),Normal Movement
+Vicryl sutures 2/0 RB 36mm,dozens,2030-09-01,12.0,0.0,-12.0,1606,Long Expiry (>6 Months),Fast Mover
+Vicryl sutures 2/0 RC 40mm,dozens,2030-07-01,9.0,0.0,-9.0,1544,Long Expiry (>6 Months),Normal Movement
+Vicryl sutures 2/0 RC 36mm,dozens,2030-09-01,3.0,0.0,-3.0,1606,Long Expiry (>6 Months),Normal Movement
+Vicryl sutures 3/0 RB,dozens,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+Vicryl sutures 3/0 RC,dozens,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+Vicryl sutures 2  RB,dozens,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+Vicryl sutures 2 RC,dozens,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+Vicryl sutures 1 RB,dozens,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+Vicryl sutures 1 RC 40mm,dozens,2026-06-01,32.0,124.0,92.0,53,Short Expiry (<3 Months),Normal Movement
+Vicryl sutures  4/0 RC 40mm,dozens,2026-06-01,8.0,8.0,0.0,53,Short Expiry (<3 Months),Active Stock (Static Count)
+Vicryl sutures  4/0 RB,dozens,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+Silk Sutures 1 RB,dozens,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+Silk Sutures 2/0 RC (35 mm),dozens,2030-05-01,4.0,4.0,0.0,1483,Long Expiry (>6 Months),Active Stock (Static Count)
+Silk Sutures 2/0 RB 40mm,dozens,2030-11-01,5.0,5.0,0.0,1667,Long Expiry (>6 Months),Active Stock (Static Count)
+Silk Sutures 2 RB 40mm,dozens,2030-06-01,4.0,4.0,0.0,1514,Long Expiry (>6 Months),Active Stock (Static Count)
+Synthecon 4/0 RB 26 MM,dozens,2028-07-01,24.0,24.0,0.0,814,Long Expiry (>6 Months),Dead Stock (Frozen Money)
+Synthecon 5/0 RC 19 MM,dozens,2028-11-01,10.0,0.0,-10.0,937,Long Expiry (>6 Months),Dead Stock (Frozen Money)
+Synthecon 5/0 RB 17 MM,dozens,2029-07-01,3.0,0.0,-3.0,1179,Long Expiry (>6 Months),Dead Stock (Frozen Money)
+Synthecon 6/0 RC 19 MM,dozens,2028-10-01,9.0,0.0,-9.0,906,Long Expiry (>6 Months),Dead Stock (Frozen Money)
+Synthecon 6/0 RC 13 MM,dozens,2029-08-01,6.0,0.0,-6.0,1210,Long Expiry (>6 Months),Dead Stock (Frozen Money)
+Polyproplene 5/0 RB 13mm,dozens,2027-06-01,4.0,0.0,-4.0,418,Long Expiry (>6 Months),Dead Stock (Frozen Money)
+Surgicril 6/0 RB 13mm,dozens,2029-11-01,8.0,0.0,-8.0,1302,Long Expiry (>6 Months),Dead Stock (Frozen Money)
+Advacryl 6/0 13mm,dozens,2029-12-01,10.0,0.0,-10.0,1332,Long Expiry (>6 Months),Dead Stock (Frozen Money)
+Dermatech 4/0 RB 17mm,dozens,2029-01-01,8.0,0.0,-8.0,998,Long Expiry (>6 Months),Dead Stock (Frozen Money)
+Dermacryl 5/0 RB 17mm,dozens,2030-08-01,10.0,0.0,-10.0,1575,Long Expiry (>6 Months),Dead Stock (Frozen Money)
+safety box,pcs,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+face masks ,pkt of 50's,2029-08-01,361.0,432.0,71.0,1210,Long Expiry (>6 Months),Normal Movement
+Hand Sanitizers ,Pcs,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+paraffin gauze  10 x 10 cm,pkt of 10's,2030-09-01,381.0,0.0,-381.0,1606,Long Expiry (>6 Months),Fast Mover
+gauze rolls 1.5kgs,Pcs,2030-09-01,208.0,0.0,-208.0,1606,Long Expiry (>6 Months),Fast Mover
+steranios (Glutaraldehyde 2%) 5ltrs,Pcs,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+Bactigrass,pkt of 10's,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+Endozyme ,pcs,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+Nasal oxygen cannula- neonate,pcs,2100-01-01,517.0,0.0,-517.0,26930,Long Expiry (>6 Months),Fast Mover
+Nasal oxygen cannula - paeds,pcs,2100-01-01,18.0,78.0,60.0,26930,Long Expiry (>6 Months),Normal Movement
+Nasal oxygen cannula- infant,pcs,2100-01-01,770.0,0.0,-770.0,26930,Long Expiry (>6 Months),Fast Mover
+Nasal oxygen cannula- adult,pcs,2100-01-01,1526.0,0.0,-1526.0,26930,Long Expiry (>6 Months),Fast Mover
+Non-rebreather mask paeds,pcs,2100-01-01,620.0,0.0,-620.0,26930,Long Expiry (>6 Months),Fast Mover
+Non-rebreather mask Adult,pcs,2100-01-01,10.0,0.0,-10.0,26930,Long Expiry (>6 Months),Normal Movement
+Identification band adult,pcs,2028-08-01,5200.0,87.0,-5113.0,845,Long Expiry (>6 Months),Fast Mover
+Identification band paeds,pcs,2026-08-01,2300.0,600.0,-1700.0,114,Medium Expiry (3-6 Months),Fast Mover
+needles G23,pkt of 100's,2030-09-01,3.0,0.0,-3.0,1606,Long Expiry (>6 Months),Normal Movement
+folleys catheter 2 way - sz 12,pcs,2027-01-01,15.0,0.0,-15.0,267,Long Expiry (>6 Months),Fast Mover
+folleys catheter 2 way - sz 16,pcs,2030-06-01,88.0,46.0,-42.0,1514,Long Expiry (>6 Months),Fast Mover
+folleys catheter 2 way - sz 18,pcs,2030-02-01,37.0,42.0,5.0,1394,Long Expiry (>6 Months),Normal Movement
+folleys catheter 2 way - sz 10,pcs,2027-01-01,16.0,0.0,-16.0,267,Long Expiry (>6 Months),Fast Mover
+folleys catheter 3 way - sz 22,Pcs,2028-08-01,3.0,3.0,0.0,845,Long Expiry (>6 Months),Active Stock (Static Count)
+Biopsy ,pcs,2030-04-01,11.0,10.0,-1.0,1453,Long Expiry (>6 Months),Normal Movement
+Tracheostomy 4.5 cuffed,pcs,2028-05-01,10.0,0.0,-10.0,753,Long Expiry (>6 Months),Normal Movement
+Tracheostomy 5.0 cuffed,pcs,2028-12-01,10.0,10.0,0.0,967,Long Expiry (>6 Months),Safety Stock (No Recent Use)
+Tracheostomy 7.0 cuffed,pcs,2027-05-01,5.0,5.0,0.0,387,Long Expiry (>6 Months),Safety Stock (No Recent Use)
+Tracheostomy 7.5 cuffed,pcs,2027-06-01,19.0,5.0,-14.0,418,Long Expiry (>6 Months),Fast Mover
+P.O.P GYPSONA 6'',Pairs,2100-01-01,660.0,0.0,-660.0,26930,Long Expiry (>6 Months),Fast Mover
+Chest drainage catheter with trocar Sz28,pcs,2030-12-01,69.0,60.0,-9.0,1697,Long Expiry (>6 Months),Normal Movement
+Chest drainage catheter with trocar Sz14,pcs,2028-05-01,7.0,7.0,0.0,753,Long Expiry (>6 Months),Active Stock (Static Count)
+Endotracheal Tube 7.0 cuffed,pcs,2030-12-01,25.0,24.0,-1.0,1697,Long Expiry (>6 Months),Normal Movement
+Endotracheal Tube 4.0 cuffed,pcs,2029-06-01,52.0,50.0,-2.0,1149,Long Expiry (>6 Months),Normal Movement
+Endotracheal Tube 3.0 cuffed,pcs,2029-02-01,39.0,39.0,0.0,1029,Long Expiry (>6 Months),Active Stock (Static Count)
+Endotracheal Tube 5.5 cuffed,pcs,2030-12-01,18.0,18.0,0.0,1697,Long Expiry (>6 Months),Active Stock (Static Count)
+Endotracheal Tube 2.5 cuffed,pcs,2029-01-01,17.0,17.0,0.0,998,Long Expiry (>6 Months),Active Stock (Static Count)
+Endotracheal Tube 6.5 cuffed,pcs,2030-12-01,136.0,136.0,0.0,1697,Long Expiry (>6 Months),Active Stock (Static Count)
+Endotracheal Tube 7.5 cuffed,pcs,2029-05-01,71.0,70.0,-1.0,1118,Long Expiry (>6 Months),Normal Movement
+evodrill perforators adult,pcs,2029-08-01,6.0,6.0,0.0,1210,Long Expiry (>6 Months),Safety Stock (No Recent Use)
+Feeding Tube Sz 16,pcs,2030-10-01,888.0,74.0,-814.0,1636,Long Expiry (>6 Months),Fast Mover
+Feeding Tube Sz 14,pcs,2029-12-01,257.0,314.0,57.0,1332,Long Expiry (>6 Months),Normal Movement
+Feeding Tube Sz 12,pcs,2030-10-01,300.0,316.0,16.0,1636,Long Expiry (>6 Months),Normal Movement
+Feeding Tube Sz 10,pcs,2028-08-01,36.0,84.0,48.0,845,Long Expiry (>6 Months),Normal Movement
+Feeding Tube Sz 08,pcs,2028-02-01,500.0,200.0,-300.0,663,Long Expiry (>6 Months),Fast Mover
+Feeding Tube Sz 06,pcs,2030-04-01,686.0,200.0,-486.0,1453,Long Expiry (>6 Months),Fast Mover
+Feeding Tube Sz 04,pcs,2030-02-01,482.0,101.0,-381.0,1394,Long Expiry (>6 Months),Fast Mover
+Sunction Catheter Sz 20,pcs,2026-06-01,267.0,225.0,-42.0,53,Short Expiry (<3 Months),Fast Mover
+Sunction Catheter Sz 16,pcs,2030-05-01,815.0,814.0,-1.0,1483,Long Expiry (>6 Months),Normal Movement
+Sunction Catheter Sz 14,pcs,2030-04-01,20.0,181.0,161.0,1453,Long Expiry (>6 Months),Normal Movement
+Sunction Catheter Sz 12,pcs,2030-04-01,1120.0,60.0,-1060.0,1453,Long Expiry (>6 Months),Fast Mover
+Sunction Catheter Sz 10,pcs,2029-09-01,350.0,213.0,-137.0,1241,Long Expiry (>6 Months),Fast Mover
+Sunction Catheter Sz 08,pcs,2100-01-01,0.0,0.0,0.0,26930,Long Expiry (>6 Months),Stockout (Critical)
+Sunction Catheter Sz 06,pcs,2030-04-01,159.0,343.0,184.0,1453,Long Expiry (>6 Months),Normal Movement
+"Z.O.P 4""",pcs,2030-04-01,1295.0,890.0,-405.0,1453,Long Expiry (>6 Months),Fast Mover
+"Z.O.P 3""",pcs,2030-07-01,60.0,0.0,-60.0,1544,Long Expiry (>6 Months),Fast Mover
+"Primapore  3""",pcs,2030-08-01,173.0,0.0,-173.0,1575,Long Expiry (>6 Months),Fast Mover
+AMBU Bag - Adult,pcs,2029-09-01,6.0,15.0,9.0,1241,Long Expiry (>6 Months),Normal Movement
+AMBU Bag - Paeds,pcs,2029-10-01,25.0,0.0,-25.0,1271,Long Expiry (>6 Months),Fast Mover
+AMBU Bag - Infant/Neonate,pcs,2028-07-01,28.0,0.0,-28.0,814,Long Expiry (>6 Months),Fast Mover
+"Elastic adhesive bandage 6""",pcs,2028-07-01,70.0,48.0,-22.0,814,Long Expiry (>6 Months),Fast Mover
+Harpic Cleaner,pcs,2027-01-01,48.0,0.0,-48.0,267,Long Expiry (>6 Months),Fast Mover
+Polyester Thread,pcs,2100-01-01,51.0,21.0,-30.0,26930,Long Expiry (>6 Months),Fast Mover
+Elastic Tape,pcs,2100-01-01,3.0,3.0,0.0,26930,Long Expiry (>6 Months),Active Stock (Static Count)
+Leather Gloves,pairs,2100-01-01,11.0,16.0,5.0,26930,Long Expiry (>6 Months),Normal Movement
+Laerdel Mask paed,pcs,2100-01-01,12.0,0.0,-12.0,26930,Long Expiry (>6 Months),Fast Mover
+Umbilical cord clamps,pcs,2026-05-01,900.0,800.0,-100.0,22,Short Expiry (<3 Months),Fast Mover
+MVA kit,pcs,2100-01-01,3.0,3.0,0.0,26930,Long Expiry (>6 Months),Active Stock (Static Count)
+Skin Tranction Kit ,pcs,2023-03-01,2.0,0.0,-2.0,-1135,Expired,Normal Movement
+Spinal Needle G 22,pkts of 25,2029-05-01,7.0,8.0,1.0,1118,Long Expiry (>6 Months),Normal Movement
+Bone wax,dozens,2030-09-01,3.0,5.0,2.0,1606,Long Expiry (>6 Months),Normal Movement
+Orthopaedic Padding,pcs,2029-09-17,7200.0,0.0,-7200.0,1257,Long Expiry (>6 Months),Fast Mover
+Stethoscope Dual head,Pcs,2100-01-01,6.0,6.0,0.0,26930,Long Expiry (>6 Months),Fixed Asset (Not for Consumption)
+Salter scale w/o Pant,Pcs,2100-01-01,2.0,2.0,0.0,26930,Long Expiry (>6 Months),Fixed Asset (Not for Consumption)
+Digital thermometer,Pcs,2100-01-01,5.0,7.0,2.0,26930,Long Expiry (>6 Months),Normal Movement
+ANALOG bathroomscale,Pcs,2100-01-01,2.0,2.0,0.0,26930,Long Expiry (>6 Months),Fixed Asset (Not for Consumption)
+Bp Machine Manual (sphygnomanometre),Pcs,2100-01-01,7.0,7.0,0.0,26930,Long Expiry (>6 Months),Fixed Asset (Not for Consumption)
+Paper gloves ,Pcs,2030-05-01,51.0,65.0,14.0,1483,Long Expiry (>6 Months),Normal Movement
+Silicon Catheter sz 6 2way ,Pcs,2027-09-01,69.0,90.0,21.0,510,Long Expiry (>6 Months),Normal Movement
+Silicon Catheter sz 16 2way ,pcs,2030-06-01,29.0,29.0,0.0,1514,Long Expiry (>6 Months),Active Stock (Static Count)
+Silicon Catheter sz 8 2way ,pcs,2029-01-01,9.0,9.0,0.0,998,Long Expiry (>6 Months),Active Stock (Static Count)
+Sterile Gauze swabs 10 x 10 cm,pkts of 25,2027-12-01,25.0,25.0,0.0,601,Long Expiry (>6 Months),Active Stock (Static Count)
+Disposable Speculum (M),pcs,2029-11-01,900.0,900.0,0.0,1302,Long Expiry (>6 Months),Active Stock (Static Count)
+Disposable Speculum (L),pcs,2029-12-01,400.0,400.0,0.0,1332,Long Expiry (>6 Months),Active Stock (Static Count)
+Male condom Catheters,pcs,2030-03-01,200.0,0.0,-200.0,1422,Long Expiry (>6 Months),Fast Mover
+Paediatric urine collector,pcs,2026-06-27,200.0,0.0,-200.0,79,Short Expiry (<3 Months),Fast Mover
+"Autoclaving Tape 3/4""",rolls,2030-07-01,253.0,168.0,-85.0,1544,Long Expiry (>6 Months),Fast Mover
+Colostomy bag adult,pcs,2028-12-01,170.0,0.0,-170.0,967,Long Expiry (>6 Months),Fast Mover
+Colostomy bag Paeds,pcs,2028-10-01,269.0,0.0,-269.0,906,Long Expiry (>6 Months),Fast Mover
+"Surgical Blade 15""",pcs,2027-11-01,22782.0,5491.0,-17291.0,571,Long Expiry (>6 Months),Fast Mover
+"Surgical Blade 11""",pcs,2030-08-01,2900.0,1985.0,-915.0,1575,Long Expiry (>6 Months),Fast Mover
+"Surgical Blade 23""",pcs,2028-05-01,25253.0,25097.0,-156.0,753,Long Expiry (>6 Months),Fast Mover
+Under water chest drainage bottle,pcs,2030-04-01,105.0,144.0,39.0,1453,Long Expiry (>6 Months),Normal Movement
+Alcohol Swabs,pkts of 100,2030-05-01,452.0,6.0,-446.0,1483,Long Expiry (>6 Months),Fast Mover
+ECG Electrodes ADULT,pcs,2026-08-01,3900.0,86.0,-3814.0,114,Medium Expiry (3-6 Months),Fast Mover
+ECG Electrodes Paeds,pcs,2026-08-01,3100.0,3.0,-3097.0,114,Medium Expiry (3-6 Months),Fast Mover
+Surgical Gown,pcs,2028-03-01,59.0,0.0,-59.0,692,Long Expiry (>6 Months),Fast Mover
+Tongue Depressor,pkt of 100's,2100-01-01,83.0,0.0,-83.0,26930,Long Expiry (>6 Months),Fast Mover
+Insulin syringes 6mm,pcs,2027-07-01,4350.0,1300.0,-3050.0,448,Long Expiry (>6 Months),Fast Mover
+Steranios ,5ltrs,2029-04-01,32.0,35.0,3.0,1088,Long Expiry (>6 Months),Normal Movement
+Sanicrub Hand wash 4%,5ltrs,2027-05-01,6.0,8.0,2.0,387,Long Expiry (>6 Months),Normal Movement
+ VIM 400grams,CAN,2100-01-01,72.0,0.0,-72.0,26930,Long Expiry (>6 Months),Fast Mover
+HME Bacteria Adult,pcs,2100-01-01,65.0,65.0,0.0,26930,Long Expiry (>6 Months),Safety Stock (No Recent Use)
+HME Bacteria Paed,pcs,2100-01-01,173.0,0.0,-173.0,26930,Long Expiry (>6 Months),Fast Mover
+Toilet Balls,pkts of 6,2100-01-01,31.0,0.0,-31.0,26930,Long Expiry (>6 Months),Fast Mover
+Super bright ,dozens,2100-01-01,73.0,0.0,-73.0,26930,Long Expiry (>6 Months),Fast Mover

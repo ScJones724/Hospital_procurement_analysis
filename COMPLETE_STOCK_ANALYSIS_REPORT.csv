@@ -1,0 +1,163 @@
+item_name,closing_stock,monthly_usage_original,stock_base_units,monthly_usage_base_units,months_of_supply,expiry_date,days_to_expiry,expiry_status,stock_analysis,variance,opening_stock,data_quality_v2
+latex gloves,0.0,650.0,0.0,65000.0,0.0,2030-10-01,1636,Long Expiry (>6 Months),Fast Mover,-1468.0,1468.0,STOCKOUT (ORDER NOW)
+sterile surgical gloves 6.5,700.0,400.0,700.0,20000.0,0.0,2030-08-01,1575,Long Expiry (>6 Months),Normal Movement,50.0,650.0,CRITICAL LOW (<1 month)
+sterile surgical gloves 7.0,250.0,,250.0,,,2030-05-01,1483,Long Expiry (>6 Months),Fast Mover,-4500.0,4750.0,NEEDS_CLINICAL_REVIEW
+sterile surgical gloves 7.5,487.0,244.0,487.0,12200.0,0.0,2030-08-01,1575,Long Expiry (>6 Months),Fast Mover,-4763.0,5250.0,CRITICAL LOW (<1 month)
+sterile surgical gloves 8.0,0.0,,0.0,,,2030-07-01,1544,Long Expiry (>6 Months),Fast Mover,-450.0,450.0,NEEDS_CLINICAL_REVIEW
+gynaecological gloves,1034.0,2.0,1034.0,100.0,10.3,2026-09-01,145,Medium Expiry (3-6 Months),Fast Mover,-1297.0,2331.0,ADEQUATE (6-12 months)
+red bin liners 30 x 36,701.0,5200.0,701.0,5200.0,0.1,2100-01-01,26930,Long Expiry (>6 Months),Normal Movement,-3.0,704.0,CRITICAL LOW (<1 month)
+yellow bin liners 30 x 36,0.0,5200.0,0.0,5200.0,0.0,2100-01-01,26930,Long Expiry (>6 Months),Fast Mover,-1120.0,1120.0,STOCKOUT (ORDER NOW)
+black bin liners 30 x 36,0.0,1580.0,0.0,1580.0,0.0,2100-01-01,26930,Long Expiry (>6 Months),Fast Mover,-668.0,668.0,STOCKOUT (ORDER NOW)
+syringes  20cc,0.0,225.0,0.0,11250.0,0.0,2030-09-01,1606,Long Expiry (>6 Months),Normal Movement,-10.0,10.0,STOCKOUT (ORDER NOW)
+syringes 10 cc,0.0,150.0,0.0,15000.0,0.0,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,STOCKOUT (ORDER NOW)
+syringes 5 cc,26.0,210.0,2600.0,21000.0,0.1,2030-12-01,1697,Long Expiry (>6 Months),Normal Movement,16.0,10.0,CRITICAL LOW (<1 month)
+syringes 2cc,0.0,200.0,0.0,20000.0,0.0,2030-12-01,1697,Long Expiry (>6 Months),Normal Movement,-9.0,9.0,STOCKOUT (ORDER NOW)
+cotton wool 400gms,7.0,170.0,7.0,170.0,0.0,2030-05-01,1483,Long Expiry (>6 Months),Fast Mover,-463.0,470.0,CRITICAL LOW (<1 month)
+jik 5ltrs 4-6%,0.0,175.0,0.0,175.0,0.0,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,STOCKOUT (ORDER NOW)
+cannula g18,1500.0,22.0,1500.0,2200.0,0.7,2030-06-01,1514,Long Expiry (>6 Months),Fast Mover,-1308.0,2808.0,CRITICAL LOW (<1 month)
+cannula g24,0.0,15.0,0.0,1500.0,0.0,2030-08-01,1575,Long Expiry (>6 Months),Fast Mover,-2470.0,2470.0,STOCKOUT (ORDER NOW)
+cannula 16,0.0,2.0,0.0,200.0,0.0,2030-04-01,1453,Long Expiry (>6 Months),Fast Mover,-1010.0,1010.0,STOCKOUT (ORDER NOW)
+cannula g 26,800.0,7.0,800.0,700.0,1.1,2030-04-01,1453,Long Expiry (>6 Months),Normal Movement,393.0,407.0,LOW STOCK (1-3 months)
+cannula g22,0.0,22.0,0.0,2200.0,0.0,2030-09-01,1606,Long Expiry (>6 Months),Fast Mover,-411.0,411.0,STOCKOUT (ORDER NOW)
+cannula g20,1173.0,30.0,117300.0,3000.0,39.1,2030-06-01,1514,Long Expiry (>6 Months),Fast Mover,-1127.0,2300.0,OVERSTOCK (>12 months)
+catheters size 16,0.0,0.0,0.0,0.0,,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,NEEDS_CLINICAL_REVIEW
+catheters size 18,0.0,0.0,0.0,0.0,,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,NEEDS_CLINICAL_REVIEW
+urine bags,353.0,0.0,353.0,0.0,,2030-07-01,1544,Long Expiry (>6 Months),Fast Mover,-557.0,910.0,NEEDS_CLINICAL_REVIEW
+"crepe bandages 6""",0.0,0.0,0.0,0.0,,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,NEEDS_CLINICAL_REVIEW
+"pop   6""",0.0,0.0,0.0,0.0,,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,NEEDS_CLINICAL_REVIEW
+surgicell 10 x 20cm,0.0,4.0,0.0,4.0,0.0,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,STOCKOUT (ORDER NOW)
+nylon sutures 2 rb (40mm,28.0,,28.0,,,2030-03-01,1422,Long Expiry (>6 Months),Normal Movement,7.0,21.0,NEEDS_CLINICAL_REVIEW
+nylon sutures 2/0 rc,90.0,20.0,90.0,20.0,4.5,2030-07-01,1544,Long Expiry (>6 Months),Normal Movement,69.0,21.0,HEALTHY (3-6 months)
+nylon sutures 3/0 rb,0.0,,0.0,,,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,NEEDS_CLINICAL_REVIEW
+nylon sutures 3/0 rc,0.0,12.0,0.0,12.0,0.0,2030-02-01,1394,Long Expiry (>6 Months),Fast Mover,-107.0,107.0,STOCKOUT (ORDER NOW)
+nylon sutures 1 rc 40 mm,86.0,,86.0,,,2030-03-01,1422,Long Expiry (>6 Months),Normal Movement,70.0,16.0,NEEDS_CLINICAL_REVIEW
+vicryl sutures 2/0 rb 40mm,10.0,,10.0,,,2030-05-01,1483,Long Expiry (>6 Months),Normal Movement,-5.0,15.0,NEEDS_CLINICAL_REVIEW
+vicryl sutures 2/0 rb 36mm,0.0,,0.0,,,2030-09-01,1606,Long Expiry (>6 Months),Fast Mover,-12.0,12.0,NEEDS_CLINICAL_REVIEW
+vicryl sutures 2/0 rc 40mm,0.0,,0.0,,,2030-07-01,1544,Long Expiry (>6 Months),Normal Movement,-9.0,9.0,NEEDS_CLINICAL_REVIEW
+vicryl sutures 2/0 rc 36mm,0.0,,0.0,,,2030-09-01,1606,Long Expiry (>6 Months),Normal Movement,-3.0,3.0,NEEDS_CLINICAL_REVIEW
+vicryl sutures 3/0 rb,0.0,12.0,0.0,12.0,0.0,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,STOCKOUT (ORDER NOW)
+vicryl sutures 3/0 rc,0.0,12.0,0.0,12.0,0.0,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,STOCKOUT (ORDER NOW)
+vicryl sutures 2  rb,0.0,40.0,0.0,40.0,0.0,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,STOCKOUT (ORDER NOW)
+vicryl sutures 2 rc,0.0,12.0,0.0,12.0,0.0,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,STOCKOUT (ORDER NOW)
+vicryl sutures 1 rb,0.0,20.0,0.0,20.0,0.0,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,STOCKOUT (ORDER NOW)
+vicryl sutures 1 rc 40mm,124.0,,124.0,,,2026-06-01,53,Short Expiry (<3 Months),Normal Movement,92.0,32.0,NEEDS_CLINICAL_REVIEW
+vicryl sutures  4/0 rc 40mm,8.0,,8.0,,,2026-06-01,53,Short Expiry (<3 Months),Active Stock (Static Count),0.0,8.0,NEEDS_CLINICAL_REVIEW
+vicryl sutures  4/0 rb,0.0,4.0,0.0,4.0,0.0,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,STOCKOUT (ORDER NOW)
+silk sutures 1 rb,0.0,4.0,0.0,4.0,0.0,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,STOCKOUT (ORDER NOW)
+silk sutures 2/0 rc (35 mm),4.0,,4.0,,,2030-05-01,1483,Long Expiry (>6 Months),Active Stock (Static Count),0.0,4.0,NEEDS_CLINICAL_REVIEW
+silk sutures 2/0 rb 40mm,5.0,,5.0,,,2030-11-01,1667,Long Expiry (>6 Months),Active Stock (Static Count),0.0,5.0,NEEDS_CLINICAL_REVIEW
+silk sutures 2 rb 40mm,4.0,,4.0,,,2030-06-01,1514,Long Expiry (>6 Months),Active Stock (Static Count),0.0,4.0,NEEDS_CLINICAL_REVIEW
+synthecon 4/0 rb 26 mm,24.0,,24.0,,,2028-07-01,814,Long Expiry (>6 Months),Dead Stock (Frozen Money),0.0,24.0,NEEDS_CLINICAL_REVIEW
+synthecon 5/0 rc 19 mm,0.0,,0.0,,,2028-11-01,937,Long Expiry (>6 Months),Dead Stock (Frozen Money),-10.0,10.0,NEEDS_CLINICAL_REVIEW
+synthecon 5/0 rb 17 mm,0.0,,0.0,,,2029-07-01,1179,Long Expiry (>6 Months),Dead Stock (Frozen Money),-3.0,3.0,NEEDS_CLINICAL_REVIEW
+synthecon 6/0 rc 19 mm,0.0,,0.0,,,2028-10-01,906,Long Expiry (>6 Months),Dead Stock (Frozen Money),-9.0,9.0,NEEDS_CLINICAL_REVIEW
+synthecon 6/0 rc 13 mm,0.0,,0.0,,,2029-08-01,1210,Long Expiry (>6 Months),Dead Stock (Frozen Money),-6.0,6.0,NEEDS_CLINICAL_REVIEW
+polyproplene 5/0 rb 13mm,0.0,,0.0,,,2027-06-01,418,Long Expiry (>6 Months),Dead Stock (Frozen Money),-4.0,4.0,NEEDS_CLINICAL_REVIEW
+surgicril 6/0 rb 13mm,0.0,,0.0,,,2029-11-01,1302,Long Expiry (>6 Months),Dead Stock (Frozen Money),-8.0,8.0,NEEDS_CLINICAL_REVIEW
+advacryl 6/0 13mm,0.0,,0.0,,,2029-12-01,1332,Long Expiry (>6 Months),Dead Stock (Frozen Money),-10.0,10.0,NEEDS_CLINICAL_REVIEW
+dermatech 4/0 rb 17mm,0.0,,0.0,,,2029-01-01,998,Long Expiry (>6 Months),Dead Stock (Frozen Money),-8.0,8.0,NEEDS_CLINICAL_REVIEW
+dermacryl 5/0 rb 17mm,0.0,,0.0,,,2030-08-01,1575,Long Expiry (>6 Months),Dead Stock (Frozen Money),-10.0,10.0,NEEDS_CLINICAL_REVIEW
+safety box,0.0,0.0,0.0,0.0,,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,NEEDS_CLINICAL_REVIEW
+face masks,432.0,0.0,21600.0,0.0,,2029-08-01,1210,Long Expiry (>6 Months),Normal Movement,71.0,361.0,NEEDS_CLINICAL_REVIEW
+hand sanitizers,0.0,0.0,0.0,0.0,,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,NEEDS_CLINICAL_REVIEW
+paraffin gauze  10 x 10 cm,0.0,,0.0,,,2030-09-01,1606,Long Expiry (>6 Months),Fast Mover,-381.0,381.0,NEEDS_CLINICAL_REVIEW
+gauze rolls 1.5kgs,0.0,0.0,0.0,0.0,,2030-09-01,1606,Long Expiry (>6 Months),Fast Mover,-208.0,208.0,NEEDS_CLINICAL_REVIEW
+steranios (glutaraldehyde 2%) 5ltrs,0.0,6.0,0.0,6.0,0.0,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,STOCKOUT (ORDER NOW)
+bactigrass,0.0,0.0,0.0,0.0,,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,NEEDS_CLINICAL_REVIEW
+endozyme,0.0,17.0,0.0,17.0,0.0,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,STOCKOUT (ORDER NOW)
+nasal oxygen cannula- neonate,0.0,,0.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fast Mover,-517.0,517.0,NEEDS_CLINICAL_REVIEW
+nasal oxygen cannula - paeds,78.0,,78.0,,,2100-01-01,26930,Long Expiry (>6 Months),Normal Movement,60.0,18.0,NEEDS_CLINICAL_REVIEW
+nasal oxygen cannula- infant,0.0,,0.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fast Mover,-770.0,770.0,NEEDS_CLINICAL_REVIEW
+nasal oxygen cannula- adult,0.0,,0.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fast Mover,-1526.0,1526.0,NEEDS_CLINICAL_REVIEW
+non-rebreather mask paeds,0.0,,0.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fast Mover,-620.0,620.0,NEEDS_CLINICAL_REVIEW
+non-rebreather mask adult,0.0,,0.0,,,2100-01-01,26930,Long Expiry (>6 Months),Normal Movement,-10.0,10.0,NEEDS_CLINICAL_REVIEW
+identification band adult,87.0,,87.0,,,2028-08-01,845,Long Expiry (>6 Months),Fast Mover,-5113.0,5200.0,NEEDS_CLINICAL_REVIEW
+identification band paeds,600.0,,600.0,,,2026-08-01,114,Medium Expiry (3-6 Months),Fast Mover,-1700.0,2300.0,NEEDS_CLINICAL_REVIEW
+needles g23,0.0,,0.0,,,2030-09-01,1606,Long Expiry (>6 Months),Normal Movement,-3.0,3.0,NEEDS_CLINICAL_REVIEW
+folleys catheter 2 way - sz 12,0.0,,0.0,,,2027-01-01,267,Long Expiry (>6 Months),Fast Mover,-15.0,15.0,NEEDS_CLINICAL_REVIEW
+folleys catheter 2 way - sz 16,46.0,,46.0,,,2030-06-01,1514,Long Expiry (>6 Months),Fast Mover,-42.0,88.0,NEEDS_CLINICAL_REVIEW
+folleys catheter 2 way - sz 18,42.0,,42.0,,,2030-02-01,1394,Long Expiry (>6 Months),Normal Movement,5.0,37.0,NEEDS_CLINICAL_REVIEW
+folleys catheter 2 way - sz 10,0.0,,0.0,,,2027-01-01,267,Long Expiry (>6 Months),Fast Mover,-16.0,16.0,NEEDS_CLINICAL_REVIEW
+folleys catheter 3 way - sz 22,3.0,,3.0,,,2028-08-01,845,Long Expiry (>6 Months),Active Stock (Static Count),0.0,3.0,NEEDS_CLINICAL_REVIEW
+biopsy,10.0,,10.0,,,2030-04-01,1453,Long Expiry (>6 Months),Normal Movement,-1.0,11.0,NEEDS_CLINICAL_REVIEW
+tracheostomy 4.5 cuffed,0.0,,0.0,,,2028-05-01,753,Long Expiry (>6 Months),Normal Movement,-10.0,10.0,NEEDS_CLINICAL_REVIEW
+tracheostomy 5.0 cuffed,10.0,,10.0,,,2028-12-01,967,Long Expiry (>6 Months),Safety Stock (No Recent Use),0.0,10.0,NEEDS_CLINICAL_REVIEW
+tracheostomy 7.0 cuffed,5.0,,5.0,,,2027-05-01,387,Long Expiry (>6 Months),Safety Stock (No Recent Use),0.0,5.0,NEEDS_CLINICAL_REVIEW
+tracheostomy 7.5 cuffed,5.0,,5.0,,,2027-06-01,418,Long Expiry (>6 Months),Fast Mover,-14.0,19.0,NEEDS_CLINICAL_REVIEW
+p.o.p gypsona 6'',0.0,,0.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fast Mover,-660.0,660.0,NEEDS_CLINICAL_REVIEW
+chest drainage catheter with trocar sz28,60.0,,60.0,,,2030-12-01,1697,Long Expiry (>6 Months),Normal Movement,-9.0,69.0,NEEDS_CLINICAL_REVIEW
+chest drainage catheter with trocar sz14,7.0,,7.0,,,2028-05-01,753,Long Expiry (>6 Months),Active Stock (Static Count),0.0,7.0,NEEDS_CLINICAL_REVIEW
+endotracheal tube 7.0 cuffed,24.0,,24.0,,,2030-12-01,1697,Long Expiry (>6 Months),Normal Movement,-1.0,25.0,NEEDS_CLINICAL_REVIEW
+endotracheal tube 4.0 cuffed,50.0,,50.0,,,2029-06-01,1149,Long Expiry (>6 Months),Normal Movement,-2.0,52.0,NEEDS_CLINICAL_REVIEW
+endotracheal tube 3.0 cuffed,39.0,,39.0,,,2029-02-01,1029,Long Expiry (>6 Months),Active Stock (Static Count),0.0,39.0,NEEDS_CLINICAL_REVIEW
+endotracheal tube 5.5 cuffed,18.0,,18.0,,,2030-12-01,1697,Long Expiry (>6 Months),Active Stock (Static Count),0.0,18.0,NEEDS_CLINICAL_REVIEW
+endotracheal tube 2.5 cuffed,17.0,,17.0,,,2029-01-01,998,Long Expiry (>6 Months),Active Stock (Static Count),0.0,17.0,NEEDS_CLINICAL_REVIEW
+endotracheal tube 6.5 cuffed,136.0,,136.0,,,2030-12-01,1697,Long Expiry (>6 Months),Active Stock (Static Count),0.0,136.0,NEEDS_CLINICAL_REVIEW
+endotracheal tube 7.5 cuffed,70.0,,70.0,,,2029-05-01,1118,Long Expiry (>6 Months),Normal Movement,-1.0,71.0,NEEDS_CLINICAL_REVIEW
+evodrill perforators adult,6.0,,6.0,,,2029-08-01,1210,Long Expiry (>6 Months),Safety Stock (No Recent Use),0.0,6.0,NEEDS_CLINICAL_REVIEW
+feeding tube sz 16,74.0,,74.0,,,2030-10-01,1636,Long Expiry (>6 Months),Fast Mover,-814.0,888.0,NEEDS_CLINICAL_REVIEW
+feeding tube sz 14,314.0,,314.0,,,2029-12-01,1332,Long Expiry (>6 Months),Normal Movement,57.0,257.0,NEEDS_CLINICAL_REVIEW
+feeding tube sz 12,316.0,,316.0,,,2030-10-01,1636,Long Expiry (>6 Months),Normal Movement,16.0,300.0,NEEDS_CLINICAL_REVIEW
+feeding tube sz 10,84.0,,84.0,,,2028-08-01,845,Long Expiry (>6 Months),Normal Movement,48.0,36.0,NEEDS_CLINICAL_REVIEW
+feeding tube sz 08,200.0,,200.0,,,2028-02-01,663,Long Expiry (>6 Months),Fast Mover,-300.0,500.0,NEEDS_CLINICAL_REVIEW
+feeding tube sz 06,200.0,,200.0,,,2030-04-01,1453,Long Expiry (>6 Months),Fast Mover,-486.0,686.0,NEEDS_CLINICAL_REVIEW
+feeding tube sz 04,101.0,,101.0,,,2030-02-01,1394,Long Expiry (>6 Months),Fast Mover,-381.0,482.0,NEEDS_CLINICAL_REVIEW
+sunction catheter sz 20,225.0,,225.0,,,2026-06-01,53,Short Expiry (<3 Months),Fast Mover,-42.0,267.0,NEEDS_CLINICAL_REVIEW
+sunction catheter sz 16,814.0,,814.0,,,2030-05-01,1483,Long Expiry (>6 Months),Normal Movement,-1.0,815.0,NEEDS_CLINICAL_REVIEW
+sunction catheter sz 14,181.0,,181.0,,,2030-04-01,1453,Long Expiry (>6 Months),Normal Movement,161.0,20.0,NEEDS_CLINICAL_REVIEW
+sunction catheter sz 12,60.0,,60.0,,,2030-04-01,1453,Long Expiry (>6 Months),Fast Mover,-1060.0,1120.0,NEEDS_CLINICAL_REVIEW
+sunction catheter sz 10,213.0,,213.0,,,2029-09-01,1241,Long Expiry (>6 Months),Fast Mover,-137.0,350.0,NEEDS_CLINICAL_REVIEW
+sunction catheter sz 08,0.0,,0.0,,,2100-01-01,26930,Long Expiry (>6 Months),Stockout (Critical),0.0,0.0,NEEDS_CLINICAL_REVIEW
+sunction catheter sz 06,343.0,,343.0,,,2030-04-01,1453,Long Expiry (>6 Months),Normal Movement,184.0,159.0,NEEDS_CLINICAL_REVIEW
+"z.o.p 4""",890.0,,890.0,,,2030-04-01,1453,Long Expiry (>6 Months),Fast Mover,-405.0,1295.0,NEEDS_CLINICAL_REVIEW
+"z.o.p 3""",0.0,,0.0,,,2030-07-01,1544,Long Expiry (>6 Months),Fast Mover,-60.0,60.0,NEEDS_CLINICAL_REVIEW
+"primapore  3""",0.0,,0.0,,,2030-08-01,1575,Long Expiry (>6 Months),Fast Mover,-173.0,173.0,NEEDS_CLINICAL_REVIEW
+ambu bag - adult,15.0,,15.0,,,2029-09-01,1241,Long Expiry (>6 Months),Normal Movement,9.0,6.0,NEEDS_CLINICAL_REVIEW
+ambu bag - paeds,0.0,,0.0,,,2029-10-01,1271,Long Expiry (>6 Months),Fast Mover,-25.0,25.0,NEEDS_CLINICAL_REVIEW
+ambu bag - infant/neonate,0.0,,0.0,,,2028-07-01,814,Long Expiry (>6 Months),Fast Mover,-28.0,28.0,NEEDS_CLINICAL_REVIEW
+"elastic adhesive bandage 6""",48.0,,48.0,,,2028-07-01,814,Long Expiry (>6 Months),Fast Mover,-22.0,70.0,NEEDS_CLINICAL_REVIEW
+harpic cleaner,0.0,,0.0,,,2027-01-01,267,Long Expiry (>6 Months),Fast Mover,-48.0,48.0,NEEDS_CLINICAL_REVIEW
+polyester thread,21.0,,21.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fast Mover,-30.0,51.0,NEEDS_CLINICAL_REVIEW
+elastic tape,3.0,,3.0,,,2100-01-01,26930,Long Expiry (>6 Months),Active Stock (Static Count),0.0,3.0,NEEDS_CLINICAL_REVIEW
+leather gloves,16.0,,16.0,,,2100-01-01,26930,Long Expiry (>6 Months),Normal Movement,5.0,11.0,NEEDS_CLINICAL_REVIEW
+laerdel mask paed,0.0,,0.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fast Mover,-12.0,12.0,NEEDS_CLINICAL_REVIEW
+umbilical cord clamps,800.0,,800.0,,,2026-05-01,22,Short Expiry (<3 Months),Fast Mover,-100.0,900.0,NEEDS_CLINICAL_REVIEW
+mva kit,3.0,,3.0,,,2100-01-01,26930,Long Expiry (>6 Months),Active Stock (Static Count),0.0,3.0,NEEDS_CLINICAL_REVIEW
+skin tranction kit,0.0,,0.0,,,2023-03-01,-1135,Expired,Normal Movement,-2.0,2.0,NEEDS_CLINICAL_REVIEW
+spinal needle g 22,8.0,,200.0,,,2029-05-01,1118,Long Expiry (>6 Months),Normal Movement,1.0,7.0,NEEDS_CLINICAL_REVIEW
+bone wax,5.0,,5.0,,,2030-09-01,1606,Long Expiry (>6 Months),Normal Movement,2.0,3.0,NEEDS_CLINICAL_REVIEW
+orthopaedic padding,0.0,,0.0,,,2029-09-17,1257,Long Expiry (>6 Months),Fast Mover,-7200.0,7200.0,NEEDS_CLINICAL_REVIEW
+stethoscope dual head,6.0,,6.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fixed Asset (Not for Consumption),0.0,6.0,NEEDS_CLINICAL_REVIEW
+salter scale w/o pant,2.0,,2.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fixed Asset (Not for Consumption),0.0,2.0,NEEDS_CLINICAL_REVIEW
+digital thermometer,7.0,,7.0,,,2100-01-01,26930,Long Expiry (>6 Months),Normal Movement,2.0,5.0,NEEDS_CLINICAL_REVIEW
+analog bathroomscale,2.0,,2.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fixed Asset (Not for Consumption),0.0,2.0,NEEDS_CLINICAL_REVIEW
+bp machine manual (sphygnomanometre),7.0,,7.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fixed Asset (Not for Consumption),0.0,7.0,NEEDS_CLINICAL_REVIEW
+paper gloves,65.0,,65.0,,,2030-05-01,1483,Long Expiry (>6 Months),Normal Movement,14.0,51.0,NEEDS_CLINICAL_REVIEW
+silicon catheter sz 6 2way,90.0,,90.0,,,2027-09-01,510,Long Expiry (>6 Months),Normal Movement,21.0,69.0,NEEDS_CLINICAL_REVIEW
+silicon catheter sz 16 2way,29.0,,29.0,,,2030-06-01,1514,Long Expiry (>6 Months),Active Stock (Static Count),0.0,29.0,NEEDS_CLINICAL_REVIEW
+silicon catheter sz 8 2way,9.0,,9.0,,,2029-01-01,998,Long Expiry (>6 Months),Active Stock (Static Count),0.0,9.0,NEEDS_CLINICAL_REVIEW
+sterile gauze swabs 10 x 10 cm,25.0,,625.0,,,2027-12-01,601,Long Expiry (>6 Months),Active Stock (Static Count),0.0,25.0,NEEDS_CLINICAL_REVIEW
+disposable speculum (m),900.0,,900.0,,,2029-11-01,1302,Long Expiry (>6 Months),Active Stock (Static Count),0.0,900.0,NEEDS_CLINICAL_REVIEW
+disposable speculum (l),400.0,,400.0,,,2029-12-01,1332,Long Expiry (>6 Months),Active Stock (Static Count),0.0,400.0,NEEDS_CLINICAL_REVIEW
+male condom catheters,0.0,,0.0,,,2030-03-01,1422,Long Expiry (>6 Months),Fast Mover,-200.0,200.0,NEEDS_CLINICAL_REVIEW
+paediatric urine collector,0.0,,0.0,,,2026-06-27,79,Short Expiry (<3 Months),Fast Mover,-200.0,200.0,NEEDS_CLINICAL_REVIEW
+"autoclaving tape 3/4""",168.0,,168.0,,,2030-07-01,1544,Long Expiry (>6 Months),Fast Mover,-85.0,253.0,NEEDS_CLINICAL_REVIEW
+colostomy bag adult,0.0,,0.0,,,2028-12-01,967,Long Expiry (>6 Months),Fast Mover,-170.0,170.0,NEEDS_CLINICAL_REVIEW
+colostomy bag paeds,0.0,,0.0,,,2028-10-01,906,Long Expiry (>6 Months),Fast Mover,-269.0,269.0,NEEDS_CLINICAL_REVIEW
+"surgical blade 15""",5491.0,,5491.0,,,2027-11-01,571,Long Expiry (>6 Months),Fast Mover,-17291.0,22782.0,NEEDS_CLINICAL_REVIEW
+"surgical blade 11""",1985.0,,1985.0,,,2030-08-01,1575,Long Expiry (>6 Months),Fast Mover,-915.0,2900.0,NEEDS_CLINICAL_REVIEW
+"surgical blade 23""",25097.0,,25097.0,,,2028-05-01,753,Long Expiry (>6 Months),Fast Mover,-156.0,25253.0,NEEDS_CLINICAL_REVIEW
+under water chest drainage bottle,144.0,,144.0,,,2030-04-01,1453,Long Expiry (>6 Months),Normal Movement,39.0,105.0,NEEDS_CLINICAL_REVIEW
+alcohol swabs,6.0,,600.0,,,2030-05-01,1483,Long Expiry (>6 Months),Fast Mover,-446.0,452.0,NEEDS_CLINICAL_REVIEW
+ecg electrodes adult,86.0,,86.0,,,2026-08-01,114,Medium Expiry (3-6 Months),Fast Mover,-3814.0,3900.0,NEEDS_CLINICAL_REVIEW
+ecg electrodes paeds,3.0,,3.0,,,2026-08-01,114,Medium Expiry (3-6 Months),Fast Mover,-3097.0,3100.0,NEEDS_CLINICAL_REVIEW
+surgical gown,0.0,,0.0,,,2028-03-01,692,Long Expiry (>6 Months),Fast Mover,-59.0,59.0,NEEDS_CLINICAL_REVIEW
+tongue depressor,0.0,,0.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fast Mover,-83.0,83.0,NEEDS_CLINICAL_REVIEW
+insulin syringes 6mm,1300.0,,1300.0,,,2027-07-01,448,Long Expiry (>6 Months),Fast Mover,-3050.0,4350.0,NEEDS_CLINICAL_REVIEW
+steranios,35.0,,35.0,,,2029-04-01,1088,Long Expiry (>6 Months),Normal Movement,3.0,32.0,NEEDS_CLINICAL_REVIEW
+sanicrub hand wash 4%,8.0,,8.0,,,2027-05-01,387,Long Expiry (>6 Months),Normal Movement,2.0,6.0,NEEDS_CLINICAL_REVIEW
+vim 400grams,0.0,,0.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fast Mover,-72.0,72.0,NEEDS_CLINICAL_REVIEW
+hme bacteria adult,65.0,,65.0,,,2100-01-01,26930,Long Expiry (>6 Months),Safety Stock (No Recent Use),0.0,65.0,NEEDS_CLINICAL_REVIEW
+hme bacteria paed,0.0,,0.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fast Mover,-173.0,173.0,NEEDS_CLINICAL_REVIEW
+toilet balls,0.0,,0.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fast Mover,-31.0,31.0,NEEDS_CLINICAL_REVIEW
+super bright,0.0,,0.0,,,2100-01-01,26930,Long Expiry (>6 Months),Fast Mover,-73.0,73.0,NEEDS_CLINICAL_REVIEW
