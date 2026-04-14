@@ -90,12 +90,6 @@ These items represent frozen capital. They are discontinued brands with zero mov
 
 -----
 
-## Full Report
-
-[**Download the Complete PDF Analysis Report Here**](https://www.google.com/search?q=./docs/Clinical_Stocktake_Procurement_Report.pdf)
-
------
-
 **Built with 🐍 Python and ☕ Coffee | April 2026**
 *"In God we trust. All others must bring data."* — W. Edwards Deming
 
