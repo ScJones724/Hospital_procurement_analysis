@@ -52,14 +52,14 @@ After analyzing **162 inventory items**, the data told a clear story:
 ```text
 clinical-stocktake-procurement/
 │
-├── 📂 data/             # Raw source files from the hospital
-├── 📂 notebooks/        # The "Brain" - clinical_stock_analysis.ipynb
-├── 📂 outputs/          # Actionable CSV lists for Procurement
+├── 📂 data/             
+├── 📂 notebooks/        
+├── 📂 outputs/          
 │   ├── ORDER_TODAY.csv
 │   ├── ORDER_THIS_WEEK.csv
 │   └── DEAD_STOCK_WRITEOFF.csv
-├── 📂 docs/             # Full PDF analysis report
-└── README.md            # You are here!
+├── 📂 docs/            
+└── README.md           
 ```
 
 -----
